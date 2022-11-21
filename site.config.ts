@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Albert Kullanım Kılavuzu',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'albert-guide.vercel.app',
   author: 'Albert Health',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Albert Kullanım Kılavuzu',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
